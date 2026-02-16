@@ -15,4 +15,5 @@ Explorer des concepts de probabilités avancées en programmation.
 - Python
 - NumPy
 - Matplotlib
+
   PS* les paramètres(μ et ς) sont à remplir
