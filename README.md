@@ -15,5 +15,3 @@ Explorer des concepts de probabilités avancées en programmation.
 - Python
 - NumPy
 - Matplotlib
-
-- 
