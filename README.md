@@ -1,2 +1,19 @@
 # Algorithme-de-Monte-Carlo
-Voici un algorithme de Monte Carlo qui se base sur la loi faible des grands nombres afin de calculer la probabilité d’un évènement, en général complexe à modéliser.
+# Simulation de processus stochastiques
+
+Projet personnel réalisé en Python.
+
+## Description
+Implémentation de :
+- Méthode de Monte-Carlo
+- Simulation de marche aléatoire
+
+## Objectif
+Explorer des concepts de probabilités avancées en programmation.
+
+## Technologies
+- Python
+- NumPy
+- Matplotlib
+
+- 
